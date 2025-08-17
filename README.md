@@ -15,12 +15,11 @@ A simple command-line game where you guess a number between 1 and 100, and the s
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/number-guesser.git](https://github.com/yourusername/number-guesser.git)
-    cd number-guesser
+    git clone [https://github.com/yourusername/number-guesser.git](https://github.com/codingriri/riri-guessnumber.git)
     ```
 2.  **Run the game:**
     ```bash
-    python game.py
+    python pynoguess.py
     ```
 
 ## 🎮 How to Play
